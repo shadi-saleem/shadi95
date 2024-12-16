@@ -6,14 +6,14 @@
 - 🌱 I’m currently learning Blockchain, Solidity Programming, Next js and Three js
 - 🤔 I’m looking for help with: whatever related to technology and help me gain new skill
 - 💬 Ask me about: Whatever in Yuor mind :) Your are most Welcome  
-- 📫 How to reach me: My Portfolio, linkedin & Email, Phone number
+- 📫 How to reach me: My Portfolio, linkedin & Email, WhatsApp
 - ⚡ Fun fact: Having lived in Asia,  I've never tasted Durian
 
 <br/>
 
 ### My Portfolio
 
-<a href="https://shadi.diphant.com/"><img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" width="40" height="40"/></a>
+<a href="https://shadi-saleem.vercel.app/"><img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" width="40" height="40"/></a>
 
 
 
@@ -31,7 +31,7 @@
                 <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
         </td>
         <td>
-            <a href="https://wa.me/60182815896?text=Hey, "><img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" width="40" height="40"/></a>
+            <a href="https://wa.me/601127090970?text=Hey, "><img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" width="40" height="40"/></a>
         </td>
     </tr>
 </table>
